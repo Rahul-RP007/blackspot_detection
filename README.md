@@ -12,18 +12,3 @@ The implementation and experiments are done in **Google Colab**.
 - `src/` → Python scripts (if any additional code is added)  
 
 ---
-
-## 🚀 Getting Started
-
-### 1️⃣ Open in Google Colab
-You can run the project directly in Google Colab:  
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/username/repo/blob/main/notebook.ipynb)
-
-*(replace `username/repo` with your GitHub repo path)*
-
-### 2️⃣ Requirements
-If running locally, install dependencies:  
-
-```bash
-pip install -r requirements.txt
